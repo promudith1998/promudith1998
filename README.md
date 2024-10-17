@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Perfect Business Solution Services (Pvt) Ltd<br>👯 I’m looking to collaborate  Node js React Js Next Js Projects and Data Science Related Projects<br>🤝 I’m looking for help with<br>🌱Python Machine Learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭Perfect Business Solution Services (Pvt) Ltd<br>👯 I’m looking to collaborate  Node js React Js Next Js Projects and Data Science Related Projects<br>🤝 I’m looking for help with New Oppertunities <br>🌱Python Machine Learning<br>💬 Busy try Agian Another Day<br>⚡ catch me If You Can
 
 
 ## 🌐 Socials:
