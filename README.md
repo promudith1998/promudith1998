@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🔭 Associate Software Engineer at **Perfect Business Solution Services (Pvt) Ltd**  
+🔭 Software Engineer at **Perfect Business Solution Services (Pvt) Ltd**  
 👯 I’m looking to collaborate on **Node.js, React.js, Next.js, and Data Science-related projects**  
 🤝 Open to **new opportunities**  
 🌱 Currently growing my expertise in **Python and Machine Learning**  
